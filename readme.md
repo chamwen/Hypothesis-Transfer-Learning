@@ -27,7 +27,6 @@ The resources focus on the latest papers of hypothesis transfer learning (HTL) f
 |Hypothesis Transfer Learning via Transformation Functions|NIPS 2017||||
 |A new boosting algorithm for provably accurate unsupervised domain adaptation|KIS 2016||||
 |Stability and Hypothesis Transfer Learning|ICML 2013||||
-|Model adaptation with least-squares svm for adaptive hand prosthetics|ICRA 2009||||
 |A Bayesian divergence prior for classifier adaptation|AISTATS 2007||||
 
 ### Applications
@@ -35,3 +34,4 @@ The resources focus on the latest papers of hypothesis transfer learning (HTL) f
 | Title | Conf./Journal | Code | Keywords | Benefit |
 | ----  | :--: | :--: | :--: | ---- |
 |Hypothesis Transfer Learning for Efficient Data Computing in Smart Cities Environments|SMARTCOMP 2016||||
+|Model adaptation with least-squares SVM for adaptive hand prosthetics|ICRA 2009||||
