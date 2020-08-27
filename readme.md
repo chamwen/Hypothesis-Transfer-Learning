@@ -14,6 +14,7 @@ The resources focus on the latest papers of hypothesis transfer learning from to
 |Towards Knowledgeable Supervised Lifelong Learning Systems|JAIR 2020||||
 |Differentially Private Hypothesis Transfer Learning|ECML 2018||||
 |AccGenSVM: Selectively Transferring from Previous Hypotheses|IJCAI 2017||||
+|Visual Transfer Learning in the Absence of the Source Data|PhD thesis 2017||||
 |Hypothesis Transfer Learning via Transformation Functions|NIPS 2017||||
 |A new boosting algorithm for provably accurate unsupervised domain adaptation|KIS 2016||||
 |Stability and Hypothesis Transfer Learning|ICML 2013||||
