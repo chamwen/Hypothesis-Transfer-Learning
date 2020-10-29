@@ -27,6 +27,7 @@ The resources focus on the latest papers of hypothesis transfer learning (HTL) f
 |Hypothesis Transfer Learning via Transformation Functions|NIPS 2017||||
 |A new boosting algorithm for provably accurate unsupervised domain adaptation|KIS 2016||||
 |Stability and Hypothesis Transfer Learning|ICML 2013||||
+|Domain Adaptation with Multiple Sources|NIPS 2009||multi source HTL||
 |A Bayesian divergence prior for classifier adaptation|AISTATS 2007||||
 
 ### Applications
